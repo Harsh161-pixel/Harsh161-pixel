@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 
-- 🎓 B.Des (Animation, VFX & Gaming)  
+- 🎓 B.TECH CSE (Animation, VFX & Gaming)  
 - 💻 140+ LeetCode | 100+ Codeforces  
 - 🧠 Strong problem-solving mindset  
 - 🎯 Looking for **internship opportunities**  
