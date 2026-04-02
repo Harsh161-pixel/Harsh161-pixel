@@ -1,111 +1,102 @@
-<!-- 🔥 Animated Header -->
+<!-- 🔷 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harsh%20Dutt&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Harsh%20Dutt&fontSize=38&fontColor=ffffff" />
 </p>
 
-<!-- 👀 Profile Views + Typing Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh161-pixel&label=Visitors&color=blueviolet&style=flat" />
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&center=true&vCenter=true&width=500&lines=DSA+Enthusiast;Future+Manga+Creator;Animator+%7C+Developer;Consistency+is+my+superpower" />
-</p>
-
----
-
-## 🧬 About Me
-```yaml
-name: Harsh Dutt
-education: B.Des (Animation, VFX & Gaming)
-location: India 🇮🇳
-focus: [DSA, Development, Animation]
-goals:
-  - Crack Internship 💼
-  - Study in Japan 🇯🇵
-  - Create Manga Universe 🎨
-```
-
----
-
-## ⚔️ Skill Arsenal
-<p align="center">
-
-💻 Languages  
-`C++` `Python`  
-
-🧠 Core Strengths  
-`Binary Search` `Sliding Window` `Two Pointer` `Prefix Sum`  
-
-🎨 Creative  
-`Blender` `Manga Design` `Storyboarding`  
-
-⚙️ Tools  
-`Git` `GitHub`  
-
+  <img src="https://komarev.com/ghpvc/?username=Harsh161-pixel&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 📊 GitHub Power Stats
+## 👨‍💻 Harsh Dutt
+**Aspiring Software Developer | DSA Enthusiast | Animation & Creative Tech**
+
+- 🎓 B.Des in Animation, VFX & Gaming  
+- 💻 140+ LeetCode | 100+ Codeforces problems solved  
+- 🧠 Strong in problem-solving & logic building  
+- 🎯 Actively looking for **internship opportunities**  
+
+---
+
+## 🚀 Skills
+
+**Languages**  
+`C++` `Python`
+
+**Core CS**  
+`Data Structures & Algorithms`  
+`Problem Solving`  
+
+**Concepts Practiced**  
+`Binary Search` • `Sliding Window` • `Two Pointer` • `Prefix Sum`
+
+**Tools**  
+`Git` • `GitHub`
+
+**Creative Skills**  
+`Blender` • `Storyboarding` • `Manga Design`
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh161-pixel&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh161-pixel&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh161-pixel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
+
+## 📌 Projects
+
+### 📝 Handwriting AI Tool
+- Converts text/images into handwriting-style output  
+- Focused on automation and creative applications  
+- Built using Python  
+
+### 🎨 Manga Universe (Concept)
+- Platform idea for artists to publish manga  
+- Focus: accessibility for new creators  
+- Long-term vision project  
+
+### ⚡ Automation Scripts
+- Small tools to improve productivity  
+- Includes scripting and workflow automation  
 
 ---
 
-## 🧠 Competitive Programming Journey
-```diff
-+ LeetCode: 140+ problems solved
-+ Codeforces: 100+ problems solved
+## 🧠 Competitive Programming
 
-! Current Focus:
-# Trees 🌳
-# Graphs 🌐
-# Dynamic Programming 🧩
-```
+- Solved **240+ problems** across platforms  
+- Focused on building strong fundamentals  
+- Currently learning:
+  - Trees  
+  - Graphs  
+  - Dynamic Programming  
 
 ---
 
-## 🎮 Featured Projects
-- 📝 Handwriting AI Tool  
-- 🎨 Manga Universe Platform  
-- ⚡ Automation Scripts & Tools  
+## 🎯 Career Goal
+
+- 💼 Secure a **software development internship**  
+- 🧠 Become highly skilled in DSA & system thinking  
+- 🎌 Explore opportunities in Japan (tech + creative field)  
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+## 📫 Contact
+
+- 📧 Email: gkoohan@gmail.com  
 
 ---
 
-## 🎯 Current Mission
-```css
-> Leveling up problem solving daily...
-> Building real-world projects...
-> Becoming financially independent 💸
-> Creating impactful stories 🎭
-```
+## 💡 Note
 
----
-
-## 🌌 Future Vision
-- 🎌 Study in Japan with full scholarship  
-- 🎥 Create original manga + animation  
-- 💼 Land strong tech internship  
-- 💰 Build income through content + tech  
-
----
-
-## 🤝 Connect
-📧 gkoohan@gmail.com  
+I believe in **consistent improvement over shortcuts**.  
+Every day I try to get slightly better than yesterday.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=100&section=footer"/>
 </p>
